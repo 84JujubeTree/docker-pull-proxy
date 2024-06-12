@@ -1,1 +1,1 @@
-nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04 registry.cn-hangzhou.aliyuncs.com/zaoshu/cuda:10.1-cudnn7-devel-ubuntu18.04
+alinamj/cuda10.1-cudnn7-devel-ubuntu16.04-py3.7 registry.cn-hangzhou.aliyuncs.com/zaoshu/alinamj/cuda10.1-cudnn7-devel-ubuntu16.04-py3.7
